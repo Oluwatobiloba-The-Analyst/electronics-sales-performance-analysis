@@ -12,7 +12,7 @@ The dashboard was designed to support **data-driven decision-making** by visuali
 - Identify high-performing and underperforming products, manufacturers, and countries.  
 - Assess the effectiveness of promotional campaigns on revenue and profitability.  
 - Explore monthly profit trends.  
-- Provide actionable recommendations for improving revenue, and optimizing inventory, marketing, and pricing strategies.
+- Provide actionable recommendations to improve revenue and optimize inventory, marketing, and pricing strategies.
 
 ---
 
@@ -69,7 +69,7 @@ The dashboard was designed to support **data-driven decision-making** by visuali
 - **No Discount** and **North America Back-to-School** promotions were the most profitable, driving $18.33M and $8.60M in revenue respectively.  
 
 **Manufacturer Performance**  
-- Top 4: Fabrikam, Inc. ($7.36M), Contoso Ltd ($5.81M), Adventure Works ($4.26M), and Proseware Inc. ($3.61M).  
+- Top 4: Fabrikam, Inc. ($7.36M), Contoso, Ltd. ($5.81M), Adventure Works ($4.26M), and Proseware, Inc. ($3.61M).  
 - Bottom 4: The Phone Company ($2.54M), Southridge Video ($1.66M), Litware Inc. ($1.16M), Northwind Traders ($0.08M).  
 
 **Monthly Trends**  
@@ -104,12 +104,12 @@ The analysis suggests that profitability is heavily reliant on high-performing c
 
 
 ### 🏢 5. Manufacturer Performance
--Fabrikam, Inc. emerged as the best-performing manufacturer with $7.36M profit, Contoso, Ltd and Adventure Works followed with $5.81M and $4.26M profits respectively. These manufacturers represent strategic partners whose product quality, pricing, and market appeal strongly influence overall sales success.
+-Fabrikam, Inc. emerged as the best-performing manufacturer with $7.36M profit, Contoso, Ltd. and Adventure Works followed with $5.81M and $4.26M profits respectively. These manufacturers represent strategic partners whose product quality, pricing, and market appeal strongly influence overall sales success.
 -Underperforming manufacturers included Northwind Traders ($80K) and Litware, Inc. ($1.16M), underlining weak contribution and generating minimal returns compared to leading manufacturers. Possible reasons could be weaker product demand, higher costs, limited distribution, or lack of competitive features.
 The company relies heavily on a few key suppliers for profitability, which creates dependency risk.
 
 ### 🎯 6. Promotional Campaign Effectiveness
--**North America Back-to-School** Promotion generated **$8.6M sales**, with **$4.9M profit** and **North America Holiday Promotion** contributed approximately **$6.7M sales and $3.8M profit** significantly boosting sales. This indicates that Seasonal, well-timed and targeted promotions proved highly effective, directly influence customer purchasing behavior, leading to higher revenue and profitability.
+-**North America Back-to-School** Promotion generated **$8.6M sales**, with **$4.9M profit** and **North America Holiday Promotion** contributed approximately **$6.7M sales and $3.8M profit** significantly boosting sales. This indicates that seasonal, well-timed, and targeted promotions proved highly effective, directly influencing customer purchasing behavior and leading to higher revenue and profitability.
 -No Discount sales still contributed over $18.3M, showing strong natural demand for products. This suggests a strong underlying demand for products even without promotional incentives and reflects brand strength and market positioning, meaning some products can sustain sales with minimal discounting.
 -European Back-to-School Promotion generated the least sales and profit which is less than $2M for both total sales and total profit. This indicate either Ineffective marketing execution in that region, or lower seasonal demand compared to North America, or possible cultural/market differences affecting promotional response.
 
